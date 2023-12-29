@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jingze Zhang / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jingze Zhang"
+description              : &description "Senior, Major in Data Science, at DKU/Duke, '24"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jingze Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Senior @ DKU/Duke"
+  location         : "Suzhou, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,20 +102,21 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "www.linkedin.com/in/jingze-zhang-938b09273"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/profiles/76561198360013018/"
   tumblr           :
   twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
-
+  Wikipedia        :
+  
+  Leetcode         : "https://leetcode.com/user7657o/"
 
 # Reading Files
 include:
